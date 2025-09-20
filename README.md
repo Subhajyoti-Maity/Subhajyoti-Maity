@@ -6,12 +6,10 @@
 
 I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I love building projects that solve real-world problems and continuously learning new technologies.
 
-- 🔭 I'm currently working on ... *[Mention a project you're excited about]*
-- 🌱 I'm currently learning **Advanced Machine Learning techniques and Deep Learning**.
-- 👯 I'm looking to collaborate on **Open Source AI/ML projects**.
-- 🤔 I'm looking for help with ... *[Mention something you're stuck on, if applicable]*
-- 📫 How to reach me: **msubhajyoti62@gmail.com**
-- ⚡ Fun fact: ... *[Add a fun fact about yourself]*
+- 🎓 Currently pursuing my B.Tech in Artificial Intelligence And Machine Learning at  Netaji Subhash Engineering College at Garia, Kolkata (2022-2026).
+💬 Ask me about Programming 😉.
+📩 How to reach me: msubhajyoti62@gmail.com.
+- ⚡ Fun fact: ... *I think I forget everything I learn*
 
 ---
 
