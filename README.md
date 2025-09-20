@@ -1,4 +1,4 @@
-### Hi there, I'm Subhajyoti 👋
+### Hi there, I'm Subhajyoti ### 🛠️ Tech Stack & Tools
 
 I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I love building projects that solve real-world problems and continuously learning new technologies.
 
