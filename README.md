@@ -139,12 +139,20 @@
 
 ---
 
-## 👀 Profile Analytics
+## � GitHub Activity Overview
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Subhajyoti-Maity?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhajyoti-Maity&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=70a5fd&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subhajyoti-Maity&theme=github_dark" alt="Profile Summary" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Subhajyoti-Maity&theme=github_dark&utcOffset=5.5" alt="Commits Overview" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Subhajyoti-Maity&theme=github_dark" alt="Top Languages by Repo" width="48%"/>
+</div>
 
 ---
 
