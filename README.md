@@ -6,11 +6,20 @@
 
 I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I love building projects that solve real-world problems and continuously learning new technologies.
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Subhajyoti-Maity&label=Profile%20views&color=0e75b6&style=flat" alt="Subhajyoti-Maity" />
+</p>
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
+
+<p align="left">
+  <img src="https://img.shields.io/github/followers/Subhajyoti-Maity?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Subhajyoti-Maity?label=Stars&style=social" alt="GitHub stars" />
+</p>
 
 - 🎓 **Education:** B.Tech in Artificial Intelligence and Machine Learning at Netaji Subhas Engineering College, Garia, Kolkata (2022-2026)
 - 🔭 I'm currently working on **AI/ML projects and Full Stack Development**
@@ -23,7 +32,20 @@ I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I lov
 
 ---
 
-## 🛠️ My Skill Set
+## � Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/subhajyoti-maity-207815251" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:msubhajyoti62@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+## �🛠️ TechStack and Tools
 
 Here are some of the technologies I've worked with on my projects:
 
@@ -58,17 +80,3 @@ Here are some of the technologies I've worked with on my projects:
 
 ---
 
-## 📬 Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/subhajyoti-maity-207815251" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:msubhajyoti62@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
----
-
-⭐️ From [Subhajyoti-Maity](https://github.com/Subhajyoti-Maity)
