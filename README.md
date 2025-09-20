@@ -1,4 +1,4 @@
-### Hi there, I'm Subhajyoti 👋
+### Hi there, I'm Subhajyoti Maity 👋
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Subhajyoti Maity's Profile Views" />
