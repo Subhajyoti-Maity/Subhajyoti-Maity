@@ -1,12 +1,22 @@
 # AI & Machine Learning Enthusiast 🤖
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Subhajyoti+Maity;AI%2FML+Enthusiast+🤖;Passionate+Developer+💻;Always+Learning+📚" alt="Typing SVG" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 💫 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 👋 **Hello, I'm Subhajyoti Maity!**
 
@@ -16,6 +26,8 @@ I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I lov
 - 🧠 Ask me about Programming 😊
 - 📫 How to reach me: **msubhajyoti62@gmail.com**
 - ⚡ Fun fact: *I think I forget everything I learn*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -100,6 +112,12 @@ I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I lov
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Subhajyoti-Maity&theme=dracula&column=7" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github.com/Subhajyoti-Maity/Subhajyoti-Maity/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
