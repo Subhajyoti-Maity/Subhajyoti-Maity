@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Subhajyoti Maity's Profile Views" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSubhajyoti-Maity%2FSubhajyoti-Maity&count_bg=%23579DDB&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub+Profile+Hits&edge_flat=false" alt="GitHub Profile Hits"/>
 </p>
 
 I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I love building projects that solve real-world problems and continuously learning new technologies.
