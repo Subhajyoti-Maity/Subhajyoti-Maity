@@ -1,4 +1,6 @@
-### Hi there, I'm Subhajyoti 👋
+### - 🎓 Currently pursuing my B.Tech in Artificial Intelligence And Machine Learning at Netaji Subhash Engineering College at Garia, Kolkata (2022-2026)
+- 🧠 Ask me about Programming 😊
+- 📫 How to reach me: **msubhajyoti62@gmail.com**there, I'm Subhajyoti Maity👋
 
 I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I love building projects that solve real-world problems and continuously learning new technologies.
 
@@ -9,19 +11,7 @@ I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I lov
 
 ---
 
-### 👁️ Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Subhajyoti Maity's Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSubhajyoti-Maity%2FSubhajyoti-Maity&count_bg=%23579DDB&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub+Profile+Hits&edge_flat=false" alt="GitHub Profile Hits"/>
-</p>
-
----
-
-### 📬 Connect with me
+###  Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/subhajyoti-maity-207815251" target="_blank">
@@ -59,6 +49,18 @@ I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I lov
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Subhajyoti-Maity&theme=dracula&column=7" alt="Subhajyoti Maity's GitHub Trophies" />
+</p>
+
+---
+
+### 👁️ Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Subhajyoti Maity's Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSubhajyoti-Maity%2FSubhajyoti-Maity&count_bg=%23579DDB&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub+Profile+Hits&edge_flat=false" alt="GitHub Profile Hits"/>
 </p>
 
 ---
