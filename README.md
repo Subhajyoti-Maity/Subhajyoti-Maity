@@ -9,10 +9,6 @@ I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I lov
 - 📫 How to reach me: **msubhajyoti62@gmail.com**
 - ⚡ Fun fact: ... *[Add a fun fact about yourself]*
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=blueviolet&style=flat-square&label=Profile+Views" alt="Subhajyoti Maity's Profile Views" />
-</p>
-
 ---
 
 ### 🛠️ My Skill Set
@@ -44,7 +40,15 @@ Here are some of the technologies I've worked with on my projects:
 
 ---
 
-###  Connect with me
+### 👁️ Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=blueviolet&style=flat-square&label=Profile+Views" alt="Subhajyoti Maity's Profile Views" />
+</p>
+
+---
+
+### 📬 Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/subhajyoti-maity-207815251" target="_blank">
