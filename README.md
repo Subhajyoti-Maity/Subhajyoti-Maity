@@ -1,12 +1,12 @@
-# Hi there, I'm Subhajyoti Maity 👋<div align="center"><div align="center"><div align="center"><div align="center"><div align="center">
+# Hi there, I'm Subhajyoti Maity 👋# Hi there, I'm Subhajyoti Maity 👋<div align="center"><div align="center"><div align="center"><div align="center"><div align="center">
 
 
 
-### AI/ML Enthusiast | Full Stack Developer | Data Science Explorer | Problem Solver
+**AI/ML Enthusiast | Full Stack Developer | Data Science Explorer**
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=brightgreen&style=for-the-badge&label=Profile+Views)# Hi there, I'm Subhajyoti Maity <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+![Profile Views](https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=brightgreen&style=flat-square&label=Profile+Views)### AI/ML Enthusiast | Full Stack Developer | Data Science Explorer | Problem Solver
 
 
 
@@ -14,62 +14,133 @@
 
 
 
-## 👨‍💻 About Me<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;Data+Science+Explorer+%F0%9F%93%8A;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" /># Hi there, I'm Subhajyoti Maity <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+## About Me![Profile Views](https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=brightgreen&style=for-the-badge&label=Profile+Views)# Hi there, I'm Subhajyoti Maity <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 
 
 I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I love building projects that solve real-world problems and continuously learning new technologies.
 
 
+
+- 🎓 **Education**: B.Tech in Artificial Intelligence and Machine Learning at Netaji Subhas Engineering College, Garia, Kolkata (2022-2026)---
+
+- 🌱 **Currently Learning**: DSA and Machine Learning
+
+- 💼 **Focus Areas**: AI/ML, Full Stack Development, Data Science
+
+- 📫 **Contact**: msubhajyoti62@gmail.com
+
+- ⚡ **Fun Fact**: I think I forget everything I learn 😅## 👨‍💻 About Me<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;Data+Science+Explorer+%F0%9F%93%8A;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" /># Hi there, I'm Subhajyoti Maity <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
+
+
+---
+
+
+
+## Connect with MeI'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I love building projects that solve real-world problems and continuously learning new technologies.
+
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhajyoti-maity-207815251/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:msubhajyoti62@gmail.com)
 
 - 🎓 Currently pursuing my B.Tech in **Artificial Intelligence and Machine Learning** at Netaji Subhas Engineering College, Garia, Kolkata (2022-2026)![Profile Views](https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=brightgreen&style=for-the-badge&label=Profile+Views)
 
+---
+
 - 🌱 I'm currently learning **DSA and Machine Learning**
+
+## Technical Skills
 
 - 💬 Ask me about **Programming**
 
-- 📫 How to reach me: **msubhajyoti62@gmail.com**
+### Programming Languages
 
-- ⚡ Fun fact: I think I forget everything I learn 😅</div><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;Data+Science+Explorer+%F0%9F%93%8A;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" /># Hi there, I'm Subhajyoti Maity <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)- 📫 How to reach me: **msubhajyoti62@gmail.com**
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)- ⚡ Fun fact: I think I forget everything I learn 😅</div><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;Data+Science+Explorer+%F0%9F%93%8A;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" /># Hi there, I'm Subhajyoti Maity <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
+### Frontend Development
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)## 🌟 Connect with me---
 
 
-## 🌟 Connect with me---
 
+### Backend Development
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhajyoti-maity-207815251/)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhajyoti-maity-207815251/)
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msubhajyoti62@gmail.com)
 
-## 👨‍💻 About Me<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100">
+### Database
 
----
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)## 👨‍💻 About Me<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100">
 
 
 
-## 🛠️ Languages and Tools
+### AI/ML & Data Science---
 
-I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I love building projects that solve real-world problems and continuously learning new technologies.
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-### Programming Languages
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)## 🛠️ Languages and Tools
+
+
+
+### Tools & PlatformsI'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I love building projects that solve real-world problems and continuously learning new technologies.
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)### Programming Languages
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+---
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## GitHub Statistics
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)- 🎓 Currently pursuing my B.Tech in **Artificial Intelligence and Machine Learning** at Netaji Subhas Engineering College, Garia, Kolkata (2022-2026)<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=500&height=100&lines=%F0%9F%8C%88+Welcome+to+my+Coding+Universe!;%E2%9C%A8+Let's+Build+Amazing+Things+Together!;%F0%9F%94%A5+Innovation+%7C+Creativity+%7C+Excellence" alt="Colorful Welcome" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;Data+Science+Explorer+%F0%9F%93%8A;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" /># Hi there, I'm Subhajyoti Maity <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subhajyoti-Maity&show_icons=true&theme=dark&hide_border=true)
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajyoti-Maity&layout=compact&theme=dark&hide_border=true)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)- 🌱 I'm currently learning **DSA and Machine Learning**
 
+---
+
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+**Thanks for visiting my profile!**
 - 💬 Ask me about **Programming**
 
 ### Frontend Development
