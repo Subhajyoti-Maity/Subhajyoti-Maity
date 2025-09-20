@@ -1,36 +1,76 @@
-# Hi there, I'm Subhajyoti Maity 👋# Hi there, I'm Subhajyoti Maity 👋<div align="center"><div align="center"><div align="center"><div align="center"><div align="center">
+# Hi there, I'm Subhajyoti Maity# Hi there, I'm Subhajyoti Maity 👋# Hi there, I'm Subhajyoti Maity 👋<div align="center"><div align="center"><div align="center"><div align="center"><div align="center">
 
 
 
-**AI/ML Enthusiast | Full Stack Developer | Data Science Explorer**
+AI/ML Enthusiast | Full Stack Developer | Data Science Explorer
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=brightgreen&style=flat-square&label=Profile+Views)### AI/ML Enthusiast | Full Stack Developer | Data Science Explorer | Problem Solver
+---**AI/ML Enthusiast | Full Stack Developer | Data Science Explorer**
+
+
+
+## About Me
+
+
+
+I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal.![Profile Views](https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=brightgreen&style=flat-square&label=Profile+Views)### AI/ML Enthusiast | Full Stack Developer | Data Science Explorer | Problem Solver
+
+
+
+- 🎓 B.Tech in Artificial Intelligence and Machine Learning at Netaji Subhas Engineering College, Garia, Kolkata (2022-2026)
+
+- 🌱 Currently learning DSA and Machine Learning
+
+- 💬 Ask me about Programming---
+
+- 📫 Contact: msubhajyoti62@gmail.com
 
 
 
 ---
-
-
 
 ## About Me![Profile Views](https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=brightgreen&style=for-the-badge&label=Profile+Views)# Hi there, I'm Subhajyoti Maity <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
+## Skills
 
+
+
+**Programming Languages:** Python, JavaScript, TypeScript, Java, HTML, CSS
 
 I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I love building projects that solve real-world problems and continuously learning new technologies.
 
+**Frontend:** React, Next.js, Tailwind CSS
 
+
+
+**Backend:** Node.js, Express, Flask
 
 - 🎓 **Education**: B.Tech in Artificial Intelligence and Machine Learning at Netaji Subhas Engineering College, Garia, Kolkata (2022-2026)---
 
+**Database:** MongoDB
+
 - 🌱 **Currently Learning**: DSA and Machine Learning
+
+**AI/ML:** TensorFlow, scikit-learn, Pandas, NumPy
 
 - 💼 **Focus Areas**: AI/ML, Full Stack Development, Data Science
 
+**Tools:** Git, VS Code, Jupyter
+
 - 📫 **Contact**: msubhajyoti62@gmail.com
 
+---
+
 - ⚡ **Fun Fact**: I think I forget everything I learn 😅## 👨‍💻 About Me<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;Data+Science+Explorer+%F0%9F%93%8A;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" /># Hi there, I'm Subhajyoti Maity <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
+## Connect
+
+
+
+- LinkedIn: [Subhajyoti Maity](https://www.linkedin.com/in/subhajyoti-maity-207815251/)
+
+- Email: msubhajyoti62@gmail.com---
 
 
 
@@ -38,7 +78,7 @@ I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I lov
 
 
 
-## Connect with MeI'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I love building projects that solve real-world problems and continuously learning new technologies.
+Thanks for visiting!## Connect with MeI'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I love building projects that solve real-world problems and continuously learning new technologies.
 
 
 
