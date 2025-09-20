@@ -11,7 +11,7 @@ I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I lov
 - 👯 I'm looking to collaborate on **Open Source AI/ML projects**.
 - 🤔 I'm looking for help with ... *[Mention something you're stuck on, if applicable]*
 - 📫 How to reach me: **msubhajyoti62@gmail.com**
-- ⚡ Fun fact: ... *[Add a fun fact about yourself]*
+- ⚡ Fun fact: **I think I forget Everything I learn** 😄
 
 ---
 
