@@ -1,5 +1,10 @@
 ### Hi there, I'm Subhajyoti 👋
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Subhajyoti Maity's Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSubhajyoti-Maity%2FSubhajyoti-Maity&count_bg=%23579DDB&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub+Profile+Hits&edge_flat=false" alt="GitHub Profile Hits"/>
+</p>
+
 I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I love building projects that solve real-world problems and continuously learning new technologies.
 
 - 🔭 I'm currently working on ... *[Mention a project you're excited about]*
@@ -8,18 +13,6 @@ I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I lov
 - 🤔 I'm looking for help with ... *[Mention something you're stuck on, if applicable]*
 - 📫 How to reach me: **msubhajyoti62@gmail.com**
 - ⚡ Fun fact: ... *[Add a fun fact about yourself]*
-
----
-
-### 👁️ Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Subhajyoti Maity's Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSubhajyoti-Maity%2FSubhajyoti-Maity&count_bg=%23579DDB&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub+Profile+Hits&edge_flat=false" alt="GitHub Profile Hits"/>
-</p>
 
 ---
 
