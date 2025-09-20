@@ -11,9 +11,7 @@ I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I lov
 
 ---
 
-### 🛠️ My Skill Set
-
-Here are some of the technologies I've worked with on my projects:
+### 🛠️ Tech Stack & Tools
 
 | Category          | Skills                                                                                                                                                             |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
