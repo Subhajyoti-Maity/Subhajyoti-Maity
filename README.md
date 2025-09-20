@@ -1,6 +1,4 @@
-# Hi there, I'm Subhajyoti Ma---
-
-## 📬 Connect with me
+# Hi there, I'm Subhajyoti Ma## 📬 Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/subhajyoti-maity-207815251" target="_blank">
@@ -13,7 +11,7 @@
 
 ---
 
-## 🛠️ TechStack and Toolslign="center">
+## 🛠️ TechStack and Tools align="center">
 
 **AI/ML Enthusiast | Full Stack Developer | Data Science Explorer**
 
@@ -21,15 +19,13 @@
   <img src="https://komarev.com/ghpvc/?username=Subhajyoti-Maity&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<br>
-
-I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I love building projects that solve real-world problems and continuously learning new technologies.
-
 </div>
 
 ---
 
 ## 👨‍💻 About Me
+
+I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I love building projects that solve real-world problems and continuously learning new technologies.
 
 - 🎓 **Education:** B.Tech in Artificial Intelligence and Machine Learning at Netaji Subhas Engineering College, Garia, Kolkata (2022-2026)
 - 🔭 I'm currently working on **AI/ML projects and Full Stack Development**
