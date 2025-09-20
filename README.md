@@ -1,11 +1,8 @@
-# Hi there, I'm Subhajyoti Maity 👋
----
+# Hi there, I'm Subhajyoti Ma---
 
-## 🛠️ TechStack and Toolster">
+## 📬 Connect with me
 
-**AI/ML Enthusiast | Full Stack Developer | Data Science Explorer**
-
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/subhajyoti-maity-207815251" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -13,6 +10,12 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
+---
+
+## 🛠️ TechStack and Toolslign="center">
+
+**AI/ML Enthusiast | Full Stack Developer | Data Science Explorer**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Subhajyoti-Maity&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
