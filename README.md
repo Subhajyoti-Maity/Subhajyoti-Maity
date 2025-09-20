@@ -1,57 +1,110 @@
-# Hi there, I'm Subhajyoti Maity 👋# Hi there, I'm Subhajyoti Maity# Hi there, I'm Subhajyoti Maity 👋# Hi there, I'm Subhajyoti Maity 👋<div align="center"><div align="center"><div align="center"><div align="center"><div align="center">
+### Hi there, I'm Subhajyoti 👋# Hi there, I'm Subhajyoti Maity 👋# Hi there, I'm Subhajyoti Maity# Hi there, I'm Subhajyoti Maity 👋# Hi there, I'm Subhajyoti Maity 👋<div align="center"><div align="center"><div align="center"><div align="center"><div align="center">
 
 
 
-**AI/ML Enthusiast | Full Stack Developer | Data Science Explorer**
+I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I love building projects that solve real-world problems and continuously learning new technologies.
 
 
 
----AI/ML Enthusiast | Full Stack Developer | Data Science Explorer
+- 🔭 I'm currently working on **AI/ML projects and Full Stack Development****AI/ML Enthusiast | Full Stack Developer | Data Science Explorer**
+
+- 🌱 I'm currently learning **Advanced Machine Learning techniques and Deep Learning**.
+
+- 👯 I'm looking to collaborate on **Open Source AI/ML projects**.
+
+- 🎓 B.Tech in Artificial Intelligence and Machine Learning at Netaji Subhas Engineering College, Garia, Kolkata (2022-2026)
+
+- 📫 How to reach me: **msubhajyoti62@gmail.com**---AI/ML Enthusiast | Full Stack Developer | Data Science Explorer
+
+- ⚡ Fun fact: I think I forget everything I learn 😅
 
 
+
+---
 
 ## 👨‍💻 About Me
 
+### 🛠️ My Skill Set
 
+
+
+Here are some of the technologies I've worked with on my projects:
 
 I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I love building projects that solve real-world problems and continuously learning new technologies.---**AI/ML Enthusiast | Full Stack Developer | Data Science Explorer**
 
+| Category          | Skills                                                                                                                                                             |
 
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
-- 🎓 **Education:** B.Tech in Artificial Intelligence and Machine Learning at Netaji Subhas Engineering College, Garia, Kolkata (2022-2026)
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> |
 
-- 🌱 **Currently Learning:** DSA and Machine Learning
+| **AI/ML** | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/XGBoost-00BFFF?style=for-the-badge&logo=xgboost&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" /> |- 🎓 **Education:** B.Tech in Artificial Intelligence and Machine Learning at Netaji Subhas Engineering College, Garia, Kolkata (2022-2026)
 
-- 💬 **Ask me about:** Programming, AI/ML, Full Stack Development## About Me
+| **Frontend** | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/React_Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" /> |
+
+| **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" /> |- 🌱 **Currently Learning:** DSA and Machine Learning
+
+| **Databases** | <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" /> |
+
+| **Authentication** | <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" /> <img src="https://img.shields.io/badge/bcrypt-2B547E?style=for-the-badge&logo=bcrypt&logoColor=white" /> |- 💬 **Ask me about:** Programming, AI/ML, Full Stack Development## About Me
+
+| **Tools & Platforms** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" /> <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" /> |
 
 - 📍 **Location:** Kolkata, West Bengal, India
 
+---
+
 - ⚡ **Fun fact:** I think I forget everything I learn 😅
 
-
-
----I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal.![Profile Views](https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=brightgreen&style=flat-square&label=Profile+Views)### AI/ML Enthusiast | Full Stack Developer | Data Science Explorer | Problem Solver
-
-
-
-## 🌐 Connect with Me
+### 📊 My GitHub Stats
 
 
 
-- 📧 **Email:** [msubhajyoti62@gmail.com](mailto:msubhajyoti62@gmail.com)- 🎓 B.Tech in Artificial Intelligence and Machine Learning at Netaji Subhas Engineering College, Garia, Kolkata (2022-2026)
+<p align="center">
 
-- 💼 **LinkedIn:** [Subhajyoti Maity](https://www.linkedin.com/in/subhajyoti-maity-207815251/)
+  <img src="https://github-readme-stats.vercel.app/api?username=Subhajyoti-Maity&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Subhajyoti Maity's GitHub Stats" />---I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal.![Profile Views](https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=brightgreen&style=flat-square&label=Profile+Views)### AI/ML Enthusiast | Full Stack Developer | Data Science Explorer | Problem Solver
 
-- 🐙 **GitHub:** [Subhajyoti-Maity](https://github.com/Subhajyoti-Maity)- 🌱 Currently learning DSA and Machine Learning
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajyoti-Maity&layout=compact&langs_count=8&theme=dracula" alt="Subhajyoti Maity's Top Languages" />
+
+</p>
+
+<p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhajyoti-Maity&theme=dracula" alt="Subhajyoti Maity's GitHub Streak" />## 🌐 Connect with Me
+
+</p>
+
+<p align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Subhajyoti-Maity&theme=dracula&column=7" alt="Subhajyoti Maity's GitHub Trophies" />
+
+</p>- 📧 **Email:** [msubhajyoti62@gmail.com](mailto:msubhajyoti62@gmail.com)- 🎓 B.Tech in Artificial Intelligence and Machine Learning at Netaji Subhas Engineering College, Garia, Kolkata (2022-2026)
 
 
 
----- 💬 Ask me about Programming---
+---- 💼 **LinkedIn:** [Subhajyoti Maity](https://www.linkedin.com/in/subhajyoti-maity-207815251/)
 
 
 
-## 🛠️ Tech Stack and Tools- 📫 Contact: msubhajyoti62@gmail.com
+### 📬 Connect with me- 🐙 **GitHub:** [Subhajyoti-Maity](https://github.com/Subhajyoti-Maity)- 🌱 Currently learning DSA and Machine Learning
 
+
+
+<p align="left">
+
+  <a href="https://www.linkedin.com/in/subhajyoti-maity-207815251" target="_blank">
+
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />---- 💬 Ask me about Programming---
+
+  </a>
+
+  <a href="mailto:msubhajyoti62@gmail.com">
+
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+
+  </a>## 🛠️ Tech Stack and Tools- 📫 Contact: msubhajyoti62@gmail.com
+
+</p>
 
 
 ### Programming Languages
