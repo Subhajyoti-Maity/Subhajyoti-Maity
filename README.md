@@ -8,6 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=Subhajyoti-Maity&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
+<br>
+
 I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I love building projects that solve real-world problems and continuously learning new technologies.
 
 </div>
