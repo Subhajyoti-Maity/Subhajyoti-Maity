@@ -134,7 +134,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/Subhajyoti-Maity/Subhajyoti-Maity/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -142,7 +142,8 @@
 ## 👀 Profile Analytics
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSubhajyoti-Maity%2FSubhajyoti-Maity&count_bg=%23579DDB&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub+Profile+Hits&edge_flat=false" alt="GitHub Profile Hits"/>
+  <img src="https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Subhajyoti-Maity?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
 </p>
 
 ---
