@@ -27,11 +27,11 @@
 
 - 🎯 **All of my projects are available at** [GitHub](https://github.com/Subhajyoti-Maity)
 
-- 🧠 **Ask me about** Programming... 😊
+- 🧠 **Ask me about** Programming... 🤕
 
 - 📫 **How to reach me:** **msubhajyoti62@gmail.com**
 
-- ⚡ **Fun fact:** *I think I forget everything I learn*
+- ⚡ **Fun fact:** *I think I forget everything I learn 😕.*
 
 <br>
 
