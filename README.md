@@ -1,93 +1,182 @@
-# Hi there, I'm Subhajyoti Maity# Hi there, I'm Subhajyoti Maity 👋# Hi there, I'm Subhajyoti Maity 👋<div align="center"><div align="center"><div align="center"><div align="center"><div align="center">
+# Hi there, I'm Subhajyoti Maity 👋# Hi there, I'm Subhajyoti Maity# Hi there, I'm Subhajyoti Maity 👋# Hi there, I'm Subhajyoti Maity 👋<div align="center"><div align="center"><div align="center"><div align="center"><div align="center">
 
 
 
-AI/ML Enthusiast | Full Stack Developer | Data Science Explorer
+**AI/ML Enthusiast | Full Stack Developer | Data Science Explorer**
 
 
 
----**AI/ML Enthusiast | Full Stack Developer | Data Science Explorer**
+---AI/ML Enthusiast | Full Stack Developer | Data Science Explorer
 
 
 
-## About Me
+## 👨‍💻 About Me
 
 
 
-I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal.![Profile Views](https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=brightgreen&style=flat-square&label=Profile+Views)### AI/ML Enthusiast | Full Stack Developer | Data Science Explorer | Problem Solver
+I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I love building projects that solve real-world problems and continuously learning new technologies.---**AI/ML Enthusiast | Full Stack Developer | Data Science Explorer**
 
 
 
-- 🎓 B.Tech in Artificial Intelligence and Machine Learning at Netaji Subhas Engineering College, Garia, Kolkata (2022-2026)
+- 🎓 **Education:** B.Tech in Artificial Intelligence and Machine Learning at Netaji Subhas Engineering College, Garia, Kolkata (2022-2026)
 
-- 🌱 Currently learning DSA and Machine Learning
+- 🌱 **Currently Learning:** DSA and Machine Learning
 
-- 💬 Ask me about Programming---
+- 💬 **Ask me about:** Programming, AI/ML, Full Stack Development## About Me
 
-- 📫 Contact: msubhajyoti62@gmail.com
+- 📍 **Location:** Kolkata, West Bengal, India
 
-
-
----
-
-## About Me![Profile Views](https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=brightgreen&style=for-the-badge&label=Profile+Views)# Hi there, I'm Subhajyoti Maity <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-
-## Skills
+- ⚡ **Fun fact:** I think I forget everything I learn 😅
 
 
 
-**Programming Languages:** Python, JavaScript, TypeScript, Java, HTML, CSS
+---I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal.![Profile Views](https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=brightgreen&style=flat-square&label=Profile+Views)### AI/ML Enthusiast | Full Stack Developer | Data Science Explorer | Problem Solver
 
-I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I love building projects that solve real-world problems and continuously learning new technologies.
+
+
+## 🌐 Connect with Me
+
+
+
+- 📧 **Email:** [msubhajyoti62@gmail.com](mailto:msubhajyoti62@gmail.com)- 🎓 B.Tech in Artificial Intelligence and Machine Learning at Netaji Subhas Engineering College, Garia, Kolkata (2022-2026)
+
+- 💼 **LinkedIn:** [Subhajyoti Maity](https://www.linkedin.com/in/subhajyoti-maity-207815251/)
+
+- 🐙 **GitHub:** [Subhajyoti-Maity](https://github.com/Subhajyoti-Maity)- 🌱 Currently learning DSA and Machine Learning
+
+
+
+---- 💬 Ask me about Programming---
+
+
+
+## 🛠️ Tech Stack and Tools- 📫 Contact: msubhajyoti62@gmail.com
+
+
+
+### Programming Languages
+
+- **Python** - AI/ML, Data Science, Backend Development
+
+- **JavaScript** - Frontend and Backend Development---
+
+- **TypeScript** - Type-safe JavaScript Development
+
+- **Java** - Object-Oriented Programming## About Me![Profile Views](https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=brightgreen&style=for-the-badge&label=Profile+Views)# Hi there, I'm Subhajyoti Maity <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
+- **HTML5** - Web Structure and Markup
+
+- **CSS3** - Web Styling and Design## Skills
+
+
+
+### Frontend Development
+
+- **React** - Component-based UI Development
+
+- **Next.js** - Full-stack React Framework**Programming Languages:** Python, JavaScript, TypeScript, Java, HTML, CSS
+
+- **React Hooks** - Modern React Development
+
+- **Tailwind CSS** - Utility-first CSS FrameworkI'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I love building projects that solve real-world problems and continuously learning new technologies.
+
+- **Chart.js** - Data Visualization
 
 **Frontend:** React, Next.js, Tailwind CSS
 
+### Backend Development
+
+- **Node.js** - JavaScript Runtime Environment
+
+- **Express.js** - Web Application Framework
+
+- **Next.js API Routes** - Serverless API Development**Backend:** Node.js, Express, Flask
+
+- **Socket.io** - Real-time Communication
+
+- **Flask** - Python Web Framework- 🎓 **Education**: B.Tech in Artificial Intelligence and Machine Learning at Netaji Subhas Engineering College, Garia, Kolkata (2022-2026)---
 
 
-**Backend:** Node.js, Express, Flask
 
-- 🎓 **Education**: B.Tech in Artificial Intelligence and Machine Learning at Netaji Subhas Engineering College, Garia, Kolkata (2022-2026)---
+### Database & Authentication**Database:** MongoDB
 
-**Database:** MongoDB
+- **MongoDB** - NoSQL Database
 
-- 🌱 **Currently Learning**: DSA and Machine Learning
+- **Mongoose** - MongoDB Object Modeling- 🌱 **Currently Learning**: DSA and Machine Learning
 
-**AI/ML:** TensorFlow, scikit-learn, Pandas, NumPy
+- **JWT** - JSON Web Token Authentication
 
-- 💼 **Focus Areas**: AI/ML, Full Stack Development, Data Science
+- **bcrypt** - Password Hashing**AI/ML:** TensorFlow, scikit-learn, Pandas, NumPy
 
-**Tools:** Git, VS Code, Jupyter
 
-- 📫 **Contact**: msubhajyoti62@gmail.com
+
+### AI/ML & Data Science- 💼 **Focus Areas**: AI/ML, Full Stack Development, Data Science
+
+- **TensorFlow** - Machine Learning Framework
+
+- **Keras** - Deep Learning API**Tools:** Git, VS Code, Jupyter
+
+- **scikit-learn** - Machine Learning Library
+
+- **XGBoost** - Gradient Boosting Framework- 📫 **Contact**: msubhajyoti62@gmail.com
+
+- **Pandas** - Data Analysis and Manipulation
+
+- **NumPy** - Numerical Computing---
+
+- **Matplotlib** - Data Visualization
+
+- **Seaborn** - Statistical Data Visualization- ⚡ **Fun Fact**: I think I forget everything I learn 😅## 👨‍💻 About Me<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;Data+Science+Explorer+%F0%9F%93%8A;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" /># Hi there, I'm Subhajyoti Maity <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
+- **Librosa** - Audio Analysis
+
+- **Streamlit** - ML Web App Framework## Connect
+
+
+
+### Development Tools
+
+- **Git** - Version Control System
+
+- **GitHub** - Code Repository Platform- LinkedIn: [Subhajyoti Maity](https://www.linkedin.com/in/subhajyoti-maity-207815251/)
+
+- **VS Code** - Code Editor
+
+- **IntelliJ IDEA** - Java IDE- Email: msubhajyoti62@gmail.com---
+
+- **PyCharm** - Python IDE
+
+- **Jupyter Notebook** - Interactive Computing
+
+- **Google Colab** - Cloud-based Jupyter Environment
 
 ---
 
-- ⚡ **Fun Fact**: I think I forget everything I learn 😅## 👨‍💻 About Me<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;Data+Science+Explorer+%F0%9F%93%8A;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" /># Hi there, I'm Subhajyoti Maity <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-
-## Connect
-
-
-
-- LinkedIn: [Subhajyoti Maity](https://www.linkedin.com/in/subhajyoti-maity-207815251/)
-
-- Email: msubhajyoti62@gmail.com---
-
-
-
 ---
 
 
+
+## 📊 GitHub Stats
 
 Thanks for visiting!## Connect with MeI'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I love building projects that solve real-world problems and continuously learning new technologies.
 
+![Subhajyoti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subhajyoti-Maity&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajyoti-Maity&layout=compact&theme=radical&hide_border=true)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhajyoti-maity-207815251/)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Subhajyoti-Maity&theme=radical&hide_border=true)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:msubhajyoti62@gmail.com)
+
+---
 
 - 🎓 Currently pursuing my B.Tech in **Artificial Intelligence and Machine Learning** at Netaji Subhas Engineering College, Garia, Kolkata (2022-2026)![Profile Views](https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=brightgreen&style=for-the-badge&label=Profile+Views)
 
+**Thanks for visiting my profile! Feel free to reach out for collaboration or just to connect! 🚀**
 ---
 
 - 🌱 I'm currently learning **DSA and Machine Learning**
