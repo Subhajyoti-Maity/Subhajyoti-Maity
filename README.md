@@ -4,15 +4,15 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-</p>
-
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💫 About Me
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900">
 
@@ -30,13 +30,11 @@
 
 - � **Currently pursuing my B.Tech in Artificial Intelligence And Machine Learning** at Netaji Subhash Engineering College at Garia, Kolkata (2022-2026)
 
-- 🚀 **I'm currently working as a** Student, Innovator, Developer, and AI/ML Enthusiast
-
-- 📚 **I'm currently learning** Advanced Machine Learning techniques, Deep Learning, and Modern Web Development
+- 📚 **I'm currently learning** DSA And Machine Learning
 
 - 🎯 **All of my projects are available at** [GitHub](https://github.com/Subhajyoti-Maity)
 
-- 🧠 **Ask me about** Programming, AI/ML, Python, Web Development, and more
+- 🧠 **Ask me about** Programming... 😊
 
 - 📫 **How to reach me:** **msubhajyoti62@gmail.com**
 
