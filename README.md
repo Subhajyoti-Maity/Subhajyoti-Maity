@@ -1,4 +1,8 @@
-# Hi there, I'm Subhajyoti Ma## 📬 Connect with me
+# Hi the---
+
+## 👨‍💻 About Mejyo---
+
+## 📬 Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/subhajyoti-maity-207815251" target="_blank">
@@ -9,9 +13,13 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Subhajyoti-Maity&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
 ---
 
-## 🛠️ TechStack and Tools align="center">
+## 👨‍� About Me
 
 **AI/ML Enthusiast | Full Stack Developer | Data Science Explorer**
 
