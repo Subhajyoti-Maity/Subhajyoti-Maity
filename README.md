@@ -14,14 +14,42 @@
 
 ## 💫 About Me
 
-👋 **Hello, I'm Subhajyoti Maity!**
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900">
 
-I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I love building projects that solve real-world problems and continuously learning new technologies.
+<div align="center">
 
-- 🎓 Currently pursuing my B.Tech in **Artificial Intelligence And Machine Learning** at Netaji Subhash Engineering College at Garia, Kolkata (2022-2026)
-- 🧠 Ask me about Programming 😊
-- 📫 How to reach me: **msubhajyoti62@gmail.com**
-- ⚡ Fun fact: *I think I forget everything I learn*
+### Hi 👋, I'm Subhajyoti Maity
+
+**A passionate developer and AI/ML enthusiast from Kolkata, West Bengal**
+
+</div>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+- � **Currently pursuing my B.Tech in Artificial Intelligence And Machine Learning** at Netaji Subhash Engineering College at Garia, Kolkata (2022-2026)
+
+- 🚀 **I'm currently working as a** Student, Innovator, Developer, and AI/ML Enthusiast
+
+- 📚 **I'm currently learning** Advanced Machine Learning techniques, Deep Learning, and Modern Web Development
+
+- 🎯 **All of my projects are available at** [GitHub](https://github.com/Subhajyoti-Maity)
+
+- 🧠 **Ask me about** Programming, AI/ML, Python, Web Development, and more
+
+- 📫 **How to reach me:** **msubhajyoti62@gmail.com**
+
+- ⚡ **Fun fact:** *I think I forget everything I learn*
+
+</td>
+<td valign="top" width="50%">
+
+<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
