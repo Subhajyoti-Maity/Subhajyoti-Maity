@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Subhajyoti+Maity;🤖+AI+%26+Machine+Learning+Enthusiast;💻+Passionate+Developer;📚+Always+Learning+New+Technologies;🚀+Building+Real-World+Solutions" alt="Typing SVG" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">"center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Subhajyoti+Maity;🤖+AI+%26+Machine+Learning+Enthusiast;💻+Passionate+Developer;📚+Always+Learning+New+Technologies;�+Building+Real-World+Solutions" alt="Typing SVG" />
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
@@ -18,13 +14,11 @@
 
 ## 💫 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</p>
 
 👋 **Hello, I'm Subhajyoti Maity!**
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-</p>
 
 I'm a passionate developer and AI/ML enthusiast from Kolkata, West Bengal. I love building projects that solve real-world problems and continuously learning new technologies.
 
