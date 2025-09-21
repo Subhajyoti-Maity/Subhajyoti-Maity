@@ -10,7 +10,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
 
-
 ### Hi 👋, I'm Subhajyoti Maity
 
 **A passionate developer and AI/ML enthusiast from Kolkata, West Bengal**
@@ -148,7 +147,9 @@
 </div>
 
 ---
-## 📈 GitHub Activity Overview
+
+## � GitHub Activity Overview
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhajyoti-Maity&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=70a5fd&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
 </div>
@@ -165,9 +166,10 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Hacker Animation" width="200" />
+  
+  <h2>Thank you!</h2>
 </div>
-
 
 
 
