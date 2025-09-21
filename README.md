@@ -167,5 +167,5 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B6B,4ECDC4,45B7D1,96CEB4,FECA57,FF9FF3,54A0FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🎉+Thank+you+for+visiting+my+profile!+🎉;✨+Hope+you+found+something+interesting!+✨;🚀+Let's+connect+and+build+amazing+things!+🚀" alt="Thank You Message" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=🎉+Thank+you+for+visiting+my+profile!+🎉;✨+Hope+you+found+something+interesting!+✨;🚀+Let's+connect+and+build+amazing+things!+🚀;💻+Happy+coding!+💻" alt="Thank You Animation" />
 </div>
