@@ -1,9 +1,13 @@
 <p align="left">
+<<<<<<< HEAD
   <img sr- 🎯 **All of my projects are available at** [GitHub](https://github.com/Subhajyoti-Maity)
 
 - 🧠 **Ask me about** Programming 💻, AI/ML 🤖, and Web Development 🌐
 
 - 📫 **How to reach me:** **msubhajyoti62@gmail.com**tps://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+=======
+  <img src="https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+>>>>>>> 1556043dbf77bcef7916727a86cf5be926860f94
 </p>
 
 <p align="center">
@@ -153,7 +157,11 @@
 
 ---
 
+<<<<<<< HEAD
 ## 📈 GitHub Activity Overview
+=======
+## � GitHub Activity Overview
+>>>>>>> 1556043dbf77bcef7916727a86cf5be926860f94
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhajyoti-Maity&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=70a5fd&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
@@ -175,10 +183,20 @@
 </div>
 
 <div align="center">
+<<<<<<< HEAD
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,6,7&height=200&section=footer&text=Thank%20You%20For%20Visiting%20My%20Profile!&fontSize=45&fontColor=fff&fontAlign=50&fontAlignY=40&desc=Hope%20you%20enjoyed%20exploring%20my%20work!&descSize=20&descAlign=50&descAlignY=65" />
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!" alt="Thanks for visiting" />
+=======
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=footer&text=Thank%20You%20For%20Visiting%20My%20Profile!&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=65&desc=Hope%20you%20enjoyed%20exploring%20my%20work!&descAlignY=85&descAlign=center" />
+</div>
+
+<div align="center">
+  <h2>
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&height=70&lines=Thanks+for+visiting!;Hope+you+enjoyed!;Let's+connect!" alt="Typing SVG" />
+  </h2>
+>>>>>>> 1556043dbf77bcef7916727a86cf5be926860f94
 </div>
 
