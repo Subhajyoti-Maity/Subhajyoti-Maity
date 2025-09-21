@@ -167,8 +167,8 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Hacker Animation" width="200" />
-  
-  <h2>Thank you!</h2>
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=300&lines=Thank+you!+%F0%9F%91%8B" alt="Thank you animation" />
 </div>
 
 
