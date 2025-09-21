@@ -168,12 +168,7 @@
 
 
 <div align="center">
-  <h1>
-    <span style="background: linear-gradient(90deg,#36BCF7,#8f6ed5,#f7971e,#ffd200,#21d4fd,#b721ff);-webkit-background-clip:text;-webkit-text-fill-color:transparent;display:inline-block;">Thank you for visiting!</span>
-    <span style="font-size:2.5rem;display:inline-block;animation:waving 1.5s infinite alternate;">👋</span>
-  </h1>
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=400&lines=See+you+again+soon!" alt="See you again soon animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thank+you!+%F0%9F%91%8B" alt="Thank you for visiting animation" />
 </div>
 
 <!-- CSS for waving hand animation (works on GitHub dark mode) -->
