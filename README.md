@@ -168,7 +168,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=32&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&width=400&lines=Thank+you+for+visiting+my+profile!" alt="LED Matrix Thank you animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=32&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&width=900&lines=Thank+you+for+visiting+my+profile!" alt="LED Matrix Thank you animation" />
 </div>
 
 
