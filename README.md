@@ -167,11 +167,9 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="50"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&width=500&lines=THANK+YOU!!!;FOR+VISITING;MY+PROFILE!" alt="Thank You" />
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="50"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=2000&pause=1000&color=FF4444&center=true&vCenter=true&width=700&lines=THANK+YOU+FOR+VISITING+MY+PROFILE!" alt="Thank You" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
 </div>
