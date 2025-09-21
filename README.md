@@ -168,8 +168,11 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting+my+profile!+%F0%9F%91%8B" alt="Thank you for visiting my profile animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting+my+profile!+%F0%9F%91%8B;Hope+to+see+you+again+soon!" alt="Thank you for visiting my profile animation" />
 </div>
+
+
+---
 
 
 
