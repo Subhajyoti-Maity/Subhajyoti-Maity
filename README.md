@@ -21,17 +21,17 @@
 <tr>
 <td valign="top" width="50%">
 
-- 🎓 **Currently pursuing my B.Tech in Artificial Intelligence And Machine Learning** at Netaji Subhash Engineering College at Garia, Kolkata (2022-2026)
+- � **Currently pursuing my B.Tech in Artificial Intelligence And Machine Learning** at Netaji Subhash Engineering College at Garia, Kolkata (2022-2026)
 
-- 📚 **I'm currently learning**  DSA And Machine Learning
+- 📚 **I'm currently learning** Full-Stack Development with JavaScript Frontend & TypeScript Backend, DSA And Machine Learning
 
 - 🎯 **All of my projects are available at** [GitHub](https://github.com/Subhajyoti-Maity)
 
-- 🧠 **Ask me about** Programming 😃
+- 🧠 **Ask me about** JavaScript Frontend Development, TypeScript Backend Development, Full-Stack Development, and AI/ML... 😊
 
 - 📫 **How to reach me:** **msubhajyoti62@gmail.com**
 
-- ⚡ **Fun fact:** *I think I forget everything I learn 🤕*
+- ⚡ **Fun fact:** *I think I forget everything I learn*
 
 <br>
 
@@ -167,5 +167,5 @@
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/Subhajyoti-Maity">Subhajyoti-Maity</a></i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B6B,4ECDC4,45B7D1,96CEB4,FECA57,FF9FF3,54A0FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🎉+Thank+you+for+visiting+my+profile!+🎉;✨+Hope+you+found+something+interesting!+✨;🚀+Let's+connect+and+build+amazing+things!+🚀" alt="Thank You Message" />
 </div>
