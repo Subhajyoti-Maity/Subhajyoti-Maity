@@ -173,6 +173,13 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+<div align="center" style="margin-top: 40px;">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=footer&text=✨%20Thank%20You%20For%20Visiting%20My%20Profile!%20✨&fontSize=48&fontColor=fff&fontAlign=50&fontAlignY=40&desc=I%20hope%20you%20enjoyed%20exploring%20my%20work%20and%20projects!%20Feel%20free%20to%20connect%20with%20me%20anytime.%20😊&descSize=22&descAlign=50&descAlignY=65" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+Have+a+great+day!+🚀" alt="Thanks for visiting!" />
+</div>
 
 
 
