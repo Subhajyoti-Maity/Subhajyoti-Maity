@@ -21,7 +21,7 @@
 <tr>
 <td valign="top" width="50%">
 
-- � **Currently pursuing my B.Tech in Artificial Intelligence And Machine Learning** at Netaji Subhash Engineering College at Garia, Kolkata (2022-2026)
+- 🎓 **Currently pursuing my B.Tech in Artificial Intelligence And Machine Learning** at Netaji Subhash Engineering College at Garia, Kolkata (2022-2026)
 
 - 📚 **I'm currently learning**  DSA And Machine Learning
 
