@@ -168,7 +168,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thank+you!+%F0%9F%91%8B" alt="Thank you for visiting animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting+my+profile!+%F0%9F%91%8B" alt="Thank you for visiting my profile animation" />
 </div>
 
 <!-- CSS for waving hand animation (works on GitHub dark mode) -->
