@@ -21,17 +21,17 @@
 <tr>
 <td valign="top" width="50%">
 
-- 🎓 **Currently pursuing my B.Tech in Artificial Intelligence And Machine Learning** at Netaji Subhash Engineering College at Garia, Kolkata (2022-2026)
+- � **Currently pursuing my B.Tech in Artificial Intelligence And Machine Learning** at Netaji Subhash Engineering College at Garia, Kolkata (2022-2026)
 
-- 📚 **I'm currently learning** DSA And Machine Learning.😃
+- 📚 **I'm currently learning** Full-Stack Development with JavaScript Frontend & TypeScript Backend, DSA And Machine Learning
 
 - 🎯 **All of my projects are available at** [GitHub](https://github.com/Subhajyoti-Maity)
 
-- 🧠 **Ask me about** Programming 😃
+- 🧠 **Ask me about** JavaScript Frontend Development, TypeScript Backend Development, Full-Stack Development, and AI/ML... 😊
 
 - 📫 **How to reach me:** **msubhajyoti62@gmail.com**
 
-- ⚡ **Fun fact:** *I think I forget everything I learn 🤕*
+- ⚡ **Fun fact:** *I think I forget everything I learn*
 
 <br>
 
@@ -167,9 +167,13 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=2000&pause=1000&color=FF4444&center=true&vCenter=true&width=700&lines=THANK+YOU+FOR+VISITING+MY+PROFILE!" alt="Thank You" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=bold&size=24&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=%3C%2F%3E+Thanks+for+visiting!+%3C%2F%3E;%7B+Hope+you+enjoyed+browsing+%7D;%5B+Let's+connect+and+collaborate+%5D;%2F%2F+Happy+coding!+%2F%2F" alt="Coding Thank You" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
