@@ -23,7 +23,7 @@
 
 - 🎓 **Currently pursuing my B.Tech in Artificial Intelligence And Machine Learning** at Netaji Subhash Engineering College at Garia, Kolkata (2022-2026)
 
-- 📚 **I'm currently learning** Full-Stack Development with JavaScript Frontend & TypeScript Backend, DSA And Machine Learning
+- 📚 **I'm currently learning** DSA And Machine Learning.😃
 
 - 🎯 **All of my projects are available at** [GitHub](https://github.com/Subhajyoti-Maity)
 
