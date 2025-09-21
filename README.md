@@ -21,17 +21,17 @@
 <tr>
 <td valign="top" width="50%">
 
-- � **Currently pursuing my B.Tech in Artificial Intelligence And Machine Learning** at Netaji Subhash Engineering College at Garia, Kolkata (2022-2026)
+- 🎓 **Currently pursuing my B.Tech in Artificial Intelligence And Machine Learning** at Netaji Subhash Engineering College at Garia, Kolkata (2022-2026)
 
 - 📚 **I'm currently learning** Full-Stack Development with JavaScript Frontend & TypeScript Backend, DSA And Machine Learning
 
 - 🎯 **All of my projects are available at** [GitHub](https://github.com/Subhajyoti-Maity)
 
-- 🧠 **Ask me about** JavaScript Frontend Development, TypeScript Backend Development, Full-Stack Development, and AI/ML... 😊
+- 🧠 **Ask me about** Programming 😃
 
 - 📫 **How to reach me:** **msubhajyoti62@gmail.com**
 
-- ⚡ **Fun fact:** *I think I forget everything I learn*
+- ⚡ **Fun fact:** *I think I forget everything I learn 🤕*
 
 <br>
 
