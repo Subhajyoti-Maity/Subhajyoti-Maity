@@ -21,17 +21,17 @@
 <tr>
 <td valign="top" width="50%">
 
-- � **Currently pursuing my B.Tech in Artificial Intelligence And Machine Learning** at Netaji Subhash Engineering College at Garia, Kolkata (2022-2026)
+- 🎓 **Currently pursuing my B.Tech in Artificial Intelligence And Machine Learning** at Netaji Subhash Engineering College at Garia, Kolkata (2022-2026)
 
-- 📚 **I'm currently learning** Full-Stack Development with JavaScript Frontend & TypeScript Backend, DSA And Machine Learning
+- 📚 **I'm currently learning** DSA And Machine Learning
 
 - 🎯 **All of my projects are available at** [GitHub](https://github.com/Subhajyoti-Maity)
 
-- 🧠 **Ask me about** JavaScript Frontend Development, TypeScript Backend Development, Full-Stack Development, and AI/ML... 😊
+- 🧠 **Ask me about** Programming �
 
 - 📫 **How to reach me:** **msubhajyoti62@gmail.com**
 
-- ⚡ **Fun fact:** *I think I forget everything I learn*
+- ⚡ **Fun fact:** *I think I forget everything I learn 🤕*
 
 <br>
 
@@ -171,7 +171,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="900">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=footer&text=Thank%20You%20For%20Visiting%20My%20Profile!&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=65&desc=Hope%20you%20enjoyed%20exploring%20my%20work!&descAlignY=85&descAlign=center" />
 </div>
 
 <div align="center">
