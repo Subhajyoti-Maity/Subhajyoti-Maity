@@ -127,18 +127,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Subhajyoti-Maity&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Subhajyoti-Maity&theme=tokyonight&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
-</div>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 ---
 
 ## 📈 GitHub Activity Overview
