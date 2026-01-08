@@ -126,12 +126,16 @@
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subhajyoti-Maity&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajyoti-Maity&layout=compact&theme=radical)
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Subhajyoti-Maity&theme=radical)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subhajyoti-Maity&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/Subhajyoti-Maity)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajyoti-Maity&layout=compact&theme=radical)](https://github.com/Subhajyoti-Maity)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Subhajyoti-Maity&theme=radical&row=1&column=7)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Subhajyoti-Maity&theme=radical)](https://github.com/Subhajyoti-Maity)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Subhajyoti-Maity&theme=radical&row=1&column=6)](https://github.com/Subhajyoti-Maity)
+
+</div>
 
 <br/>
 
