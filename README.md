@@ -126,24 +126,12 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <a href="https://github.com/Subhajyoti-Maity">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Subhajyoti-Maity&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajyoti-Maity&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-  </a>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subhajyoti-Maity&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajyoti-Maity&layout=compact&theme=radical)
 
-<p align="center">
-  <a href="https://github.com/Subhajyoti-Maity">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhajyoti-Maity&theme=radical&hide_border=true"/>
-  </a>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Subhajyoti-Maity&theme=radical)
 
-<p align="center">
-  <a href="https://github.com/Subhajyoti-Maity">
-    <img src="https://github-profile-trophy.vercel.app/?username=Subhajyoti-Maity&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7"/>
-  </a>
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Subhajyoti-Maity&theme=radical&row=1&column=7)
 
 <br/>
 
