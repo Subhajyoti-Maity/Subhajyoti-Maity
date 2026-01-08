@@ -140,7 +140,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Subhajyoti-Maity&theme=tokyonight&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Subhajyoti-Maity&theme=tokyonight&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
 </div>
 
 </div>
