@@ -127,13 +127,21 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subhajyoti-Maity&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/Subhajyoti-Maity)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajyoti-Maity&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Subhajyoti-Maity)
+  <a href="https://github.com/Subhajyoti-Maity">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Subhajyoti-Maity&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  </a>
+  <a href="https://github.com/Subhajyoti-Maity">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Subhajyoti-Maity&layout=compact&theme=tokyonight&hide_border=true"/>
+  </a>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Subhajyoti-Maity&theme=tokyonight" alt="GitHub Streak" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Subhajyoti-Maity&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Subhajyoti-Maity&theme=tokyonight&no-frame=true&row=1&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Subhajyoti-Maity&theme=tokyonight&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
+</div>
 
 </div>
 
