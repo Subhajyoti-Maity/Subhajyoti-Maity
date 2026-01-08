@@ -145,7 +145,7 @@
 
 ---
 
-## � GitHub Activity Overview
+## 📈 GitHub Activity Overview
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhajyoti-Maity&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=70a5fd&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
