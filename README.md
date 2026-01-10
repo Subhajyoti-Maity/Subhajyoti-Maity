@@ -2,9 +2,9 @@
   <img src="https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Subhajyoti+Maity;🤖+AI+%26+Machine+Learning+Enthusiast;💻+Passionate+Developer;📚+Always+Learning+New+Technologies;🚀+Building+Real-World+Solutions" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi%2C+I'm+Subhajyoti+Maity;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%F0%9F%92%BB+Passionate+Developer;%F0%9F%93%9A+Always+Learning+New+Technologies;%F0%9F%9A%80+Building+Real-World+Solutions" alt="Typing SVG" />
+</h1>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
