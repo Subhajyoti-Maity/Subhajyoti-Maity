@@ -133,12 +133,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subhajyoti-Maity&theme=github_dark" alt="Profile Summary" width="100%"/>
+  <!-- Profile Summary image removed due to broken link -->
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Subhajyoti-Maity&theme=github_dark&utcOffset=5.5" alt="Commits Overview" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Subhajyoti-Maity&theme=github_dark" alt="Top Languages by Repo" width="48%"/>
+  <!-- Commits Overview image removed due to broken link -->
+  <!-- Top Languages by Repo image removed due to broken link -->
 </div>
 
 ---
