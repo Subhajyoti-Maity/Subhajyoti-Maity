@@ -122,11 +122,7 @@
 
 <h3>Most Used Languages</h3>
 
-<img src="https://img.shields.io/badge/Jupyter%20Notebook-46.51%25-orange" alt="Jupyter Notebook"/>
-<img src="https://img.shields.io/badge/Python-24.84%25-blue" alt="Python"/>
-<img src="https://img.shields.io/badge/TypeScript-19.97%25-lightblue" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/JavaScript-5.27%25-yellow" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/HTML-3.42%25-red" alt="HTML"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Subhajyoti-Maity&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 </div>
