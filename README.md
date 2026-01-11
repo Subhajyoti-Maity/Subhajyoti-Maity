@@ -129,11 +129,12 @@
 
 ---
 
+
 <hr style="border: none; height: 3px; background: linear-gradient(90deg, #36BCF7, #F7B36B, #A259F7); margin: 24px 0;"/>
-<h2 align="left">📈 GitHub Activity Overview</h2>
+<h2 align="center">📈 GitHub Activity Overview</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhajyoti-Maity&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=70a5fd&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhajyoti-Maity&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=70a5fd&area=true&hide_border=true" alt="Subhajyoti Maity's Contribution Graph" width="100%"/>
 </div>
 
 <div align="center">
