@@ -46,7 +46,8 @@
 
 ---
 
-## 🌐 Connect with me
+<hr style="border: none; height: 3px; background: linear-gradient(90deg, #36BCF7, #A259F7, #F7B36B); margin: 24px 0;"/>
+<h2 align="left">🌐 Connect with me</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/subhajyoti-maity-207815251" target="_blank">
@@ -59,7 +60,8 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+<hr style="border: none; height: 3px; background: linear-gradient(90deg, #F7B36B, #36BCF7, #A259F7); margin: 24px 0;"/>
+<h2 align="left">🛠️ Tech Stack & Tools</h2>
 
 ### 💻 Programming Languages
 <p>
@@ -111,7 +113,8 @@
 
 ---
 
-## 📊 GitHub Statistics
+<hr style="border: none; height: 3px; background: linear-gradient(90deg, #A259F7, #F7B36B, #36BCF7); margin: 24px 0;"/>
+<h2 align="left">📊 GitHub Statistics</h2>
 
 <div align="center">
   <a href="https://github.com/Subhajyoti-Maity?tab=repositories" target="_blank">
@@ -124,7 +127,8 @@
 
 ---
 
-## 📈 GitHub Activity Overview
+<hr style="border: none; height: 3px; background: linear-gradient(90deg, #36BCF7, #F7B36B, #A259F7); margin: 24px 0;"/>
+<h2 align="left">📈 GitHub Activity Overview</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhajyoti-Maity&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=70a5fd&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
@@ -143,10 +147,10 @@
 
 
 
+<hr style="border: none; height: 3px; background: linear-gradient(90deg, #F7B36B, #A259F7, #36BCF7); margin: 24px 0;"/>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=32&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&width=900&lines=Thank+you+for+visiting+my+profile!" alt="LED Matrix Thank you animation" />
 </div>
-
 
 ---
 
