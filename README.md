@@ -122,10 +122,6 @@
   <a href="https://github.com/Subhajyoti-Maity?tab=repositories" target="_blank">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Subhajyoti-Maity&layout=compact&theme=tokyonight&hide_border=true"/>
   </a>
-  <br/>
-  <a href="https://github.com/Subhajyoti-Maity?tab=repositories" target="_blank">
-    <b>🔎 Inspect all my GitHub projects</b>
-  </a>
 </div>
 
 ---
