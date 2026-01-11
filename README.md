@@ -120,13 +120,11 @@
   </a>
 ### Most Used Languages
 
-| Language         | Percentage |
-|------------------|-----------|
-| Jupyter Notebook | 46.51%    |
-| Python           | 24.84%    |
-| TypeScript       | 19.97%    |
-| JavaScript       | 5.27%     |
-| HTML             | 3.42%     |
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-46.51%25-orange)
+![Python](https://img.shields.io/badge/Python-24.84%25-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-19.97%25-lightblue)
+![JavaScript](https://img.shields.io/badge/JavaScript-5.27%25-yellow)
+![HTML](https://img.shields.io/badge/HTML-3.42%25-red)
 </div>
 
 ---
