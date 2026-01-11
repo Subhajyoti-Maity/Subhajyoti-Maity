@@ -118,29 +118,15 @@
   <a href="https://github.com/Subhajyoti-Maity?tab=repositories" target="_blank">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Subhajyoti-Maity&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
-  <!-- Most Used Languages (Markdown Table & Progress Bars) -->
-  <div align="center">
-    <h3>Most Used Languages</h3>
-    
-    <!-- Markdown Table -->
-    <table>
-      <tr><th>Language</th><th>Percentage</th></tr>
-      <tr><td>Jupyter Notebook</td><td>46.51%</td></tr>
-      <tr><td>Python</td><td>24.84%</td></tr>
-      <tr><td>TypeScript</td><td>19.97%</td></tr>
-      <tr><td>JavaScript</td><td>5.27%</td></tr>
-      <tr><td>HTML</td><td>3.42%</td></tr>
-    </table>
-    <br/>
-    <!-- Emoji Progress Bars -->
-    <p>
-      <b>Jupyter Notebook</b> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ 46.5%<br/>
-      <b>Python</b>           ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░ 24.8%<br/>
-      <b>TypeScript</b>       ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░ 20.0%<br/>
-      <b>JavaScript</b>       ▓░░░░░░░░░░░░░░░░░░░░░░░░ 5.3%<br/>
-      <b>HTML</b>             ░░░░░░░░░░░░░░░░░░░░░░░░░ 3.4%
-    </p>
-  </div>
+### Most Used Languages
+
+| Language         | Percentage |
+|------------------|-----------|
+| Jupyter Notebook | 46.51%    |
+| Python           | 24.84%    |
+| TypeScript       | 19.97%    |
+| JavaScript       | 5.27%     |
+| HTML             | 3.42%     |
 </div>
 
 ---
