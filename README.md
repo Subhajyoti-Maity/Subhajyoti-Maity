@@ -118,13 +118,17 @@
   <a href="https://github.com/Subhajyoti-Maity?tab=repositories" target="_blank">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Subhajyoti-Maity&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
-### Most Used Languages
+<div align="center">
 
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-46.51%25-orange)
-![Python](https://img.shields.io/badge/Python-24.84%25-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-19.97%25-lightblue)
-![JavaScript](https://img.shields.io/badge/JavaScript-5.27%25-yellow)
-![HTML](https://img.shields.io/badge/HTML-3.42%25-red)
+<h3>Most Used Languages</h3>
+
+<img src="https://img.shields.io/badge/Jupyter%20Notebook-46.51%25-orange" alt="Jupyter Notebook"/>
+<img src="https://img.shields.io/badge/Python-24.84%25-blue" alt="Python"/>
+<img src="https://img.shields.io/badge/TypeScript-19.97%25-lightblue" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-5.27%25-yellow" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML-3.42%25-red" alt="HTML"/>
+
+</div>
 </div>
 
 ---
