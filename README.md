@@ -63,13 +63,13 @@
 <hr style="border: none; height: 3px; background: linear-gradient(90deg, #F7B36B, #36BCF7, #A259F7); margin: 24px 0;"/>
 <h2 align="left">🛠️ Tech Stack & Tools</h2>
 
-### 💻 Programming Languages
+### 🧑‍💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </p>
 
-### 🎨 Frontend Development
+### 🖥️ Frontend Development
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
