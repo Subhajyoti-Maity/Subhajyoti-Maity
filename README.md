@@ -49,13 +49,9 @@
 <hr style="border: none; height: 3px; background: linear-gradient(90deg, #36BCF7, #A259F7, #F7B36B); margin: 24px 0;"/>
 <h2 align="left">🌐 Connect with me</h2>
 
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/subhajyoti-maity-207815251" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:msubhajyoti62@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <a href="https://www.linkedin.com/in/subhajyoti-maity-207815251" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="mailto:msubhajyoti62@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 ---
