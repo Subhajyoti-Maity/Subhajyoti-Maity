@@ -53,10 +53,10 @@
 </p>
 </p>
 <p align="left">
-  <a href="https://www.linkedin.com/in/subhajyoti-maity-207815251" target="_blank">
+  <a href="https://www.linkedin.com/in/subhajyoti-maity-207815251" target="_blank" aria-label="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="32" />
   </a>
-  <a href="mailto:msubhajyoti62@gmail.com">
+  <a href="mailto:msubhajyoti62@gmail.com" aria-label="Gmail">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="32" />
   </a>
 </p>
