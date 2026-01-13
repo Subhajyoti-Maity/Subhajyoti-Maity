@@ -55,13 +55,16 @@
 <p align="left">
 <p align="left">
   <a href="https://www.instagram.com/s_u_b_h_a_j_y_o_t_i?utm_source=qr&igsh=YWJlbzc4eHZsajh5" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a><a href="https://www.facebook.com/profile.php?id=61561481464406" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a><a href="mailto:msubhajyoti62@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a><a href="https://www.linkedin.com/in/subhajyoti-maity-207815251" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" height="36" style="vertical-align:middle;margin-right:10px;" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61561481464406" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" height="36" style="vertical-align:middle;margin-right:10px;" />
+  </a>
+  <a href="mailto:msubhajyoti62@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" height="36" style="vertical-align:middle;margin-right:10px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/subhajyoti-maity-207815251" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="36" style="vertical-align:middle;" />
   </a>
 </p>
 </p>
