@@ -49,7 +49,6 @@
 ---
 
 
-<hr style="border: none; height: 3px; background: linear-gradient(90deg, #36BCF7, #A259F7, #F7B36B); margin: 24px 0;"/>
 <h2 align="left">🌐 Connect with me</h2>
 <p>
   <a href="https://www.linkedin.com/in/subhajyoti-maity-207815251" target="_blank" style="margin-right:6px;">
