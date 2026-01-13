@@ -15,11 +15,9 @@
 
 </div>
 
-<table>
 <tr>
 <td valign="top" width="50%">
 
-- 🎓 **Currently pursuing my B.Tech in Artificial Intelligence And Machine Learning** at Netaji Subhash Engineering College at Garia, Kolkata (2022-2026)
 
 - 📚 **I'm currently learning** DSA And Machine Learning
 
@@ -36,7 +34,6 @@
 </td>
 <td valign="top" width="50%">
 
-<img align="center" alt="Development & Machine Learning" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 </td>
 </tr>
