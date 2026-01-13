@@ -1,12 +1,3 @@
-<h2 align="left">🌐 Connect with me</h2>
-<p>
-  <a href="https://www.linkedin.com/in/subhajyoti-maity-207815251" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:msubhajyoti62@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
@@ -60,6 +51,16 @@
 
 ---
 
+
+<h2 align="left">🌐 Connect with me</h2>
+<p>
+  <a href="https://www.linkedin.com/in/subhajyoti-maity-207815251" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:msubhajyoti62@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 <hr style="border: none; height: 3px; background: linear-gradient(90deg, #F7B36B, #36BCF7, #A259F7); margin: 24px 0;"/>
 <h2 align="left">🛠️ Tech Stack & Tools</h2>
 
