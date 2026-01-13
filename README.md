@@ -54,10 +54,10 @@
 </p>
 <p align="left">
   <a href="https://www.linkedin.com/in/subhajyoti-maity-207815251" target="_blank" aria-label="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align:middle;border:1px solid transparent;" />
-  </a>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="36" style="vertical-align:middle;margin-right:10px;" />
+  </a>
   <a href="mailto:msubhajyoti62@gmail.com" aria-label="Gmail">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="vertical-align:middle;border:1px solid transparent;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="36" style="vertical-align:middle;" />
   </a>
 </p>
 </p>
