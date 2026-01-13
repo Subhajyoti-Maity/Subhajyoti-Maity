@@ -1,3 +1,18 @@
+<h2 align="left">🤝 Connect with me</h2>
+<p>
+  <a href="https://www.linkedin.com/in/subhajyoti-maity-207815251" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="36" style="vertical-align:middle;margin-right:16px;" />
+  </a>
+  <a href="https://www.instagram.com/s_u_b_h_a_j_y_o_t_i?utm_source=qr&igsh=YWJlbzc4eHZsajh5" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/48px-Instagram_icon.png" alt="Instagram" height="36" style="vertical-align:middle;margin-right:16px;" />
+  </a>
+  <a href="mailto:msubhajyoti62@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="36" style="vertical-align:middle;margin-right:16px;" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61561481464406" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="36" style="vertical-align:middle;" />
+  </a>
+</p>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Subhajyoti-Maity&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
