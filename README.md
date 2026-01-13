@@ -55,7 +55,7 @@
     <a href="https://www.instagram.com/subhajyoti_maity_" target="_blank" style="margin-right:8px;">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="https://www.facebook.com/profile.php?id=100090853726974" target="_blank">
+    <a href="https://www.facebook.com/profile.php?id=61561481464406&mibextid=rS40aB7S9Ucbxw6v" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
     </a>
   </p>
