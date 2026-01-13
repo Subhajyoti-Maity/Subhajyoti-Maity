@@ -45,10 +45,20 @@
 
 <h2 align="left">🌐 Connect with me</h2>
 <p>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/subhajyoti-maity-207815251)
-  [![Gmail](https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail&logoColor=D14836)](mailto:msubhajyoti62@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-white?style=flat&logo=instagram&logoColor=E4405F)](https://www.instagram.com/subhajyoti_maity_)
-  [![Facebook](https://img.shields.io/badge/Facebook-white?style=flat&logo=facebook&logoColor=1877F2)](https://www.facebook.com/profile.php?id=100090853726974)
+  <p align="left">
+    <a href="https://www.linkedin.com/in/subhajyoti-maity-207815251" target="_blank" style="margin-right:8px;">
+      <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+    </a>
+    <a href="mailto:msubhajyoti62@gmail.com" style="margin-right:8px;">
+      <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail" />
+    </a>
+    <a href="https://www.instagram.com/subhajyoti_maity_" target="_blank" style="margin-right:8px;">
+      <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=100090853726974" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" />
+    </a>
+  </p>
 </p>
   
 <h2 align="left">🛠️ Tech Stack & Tools</h2>
