@@ -55,12 +55,12 @@
 <p align="left">
 <table>
   <tr>
-    <td align="center" valign="middle">
+    <td>
       <a href="https://www.linkedin.com/in/subhajyoti-maity-207815251" target="_blank" aria-label="LinkedIn">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="36" />
       </a>
     </td>
-    <td align="center" valign="middle">
+    <td>
       <a href="mailto:msubhajyoti62@gmail.com" aria-label="Gmail">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="36" />
       </a>
