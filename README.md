@@ -43,12 +43,6 @@
 
 ---
 
-<hr style="border: none; height: 3px; background: linear-gradient(90deg, #36BCF7, #A259F7, #F7B36B); margin: 24px 0;"/>
-
-
----
-
-
 <h2 align="left">🌐 Connect with me</h2>
 <p>
   <a href="https://www.linkedin.com/in/subhajyoti-maity-207815251" target="_blank" style="margin-right:6px;">
@@ -64,7 +58,21 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
-<hr style="border: none; height: 3px; background: linear-gradient(90deg, #F7B36B, #36BCF7, #A259F7); margin: 24px 0;"/>
+<h2 align="left">🌐 Connect with me</h2>
+<p>
+  <a href="https://www.linkedin.com/in/subhajyoti-maity-207815251" target="_blank" style="margin-right:6px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:msubhajyoti62@gmail.com" style="margin-right:6px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/subhajyoti_maity_" target="_blank" style="margin-right:6px;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100090853726974" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
 <h2 align="left">🛠️ Tech Stack & Tools</h2>
 
 ### 🧑‍💻 Programming Languages
